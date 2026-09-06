@@ -475,5 +475,5 @@ Overall, this assignment helped me understand Python OOP, file handling, basic s
 
 ```
 
-This version is deliberately **not overly polished**—it reads more like a B.Tech student documenting his own lab project while still covering the teacher's required A–K points.
+
 ```
