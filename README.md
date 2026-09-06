@@ -4,7 +4,7 @@
 
 ## A. Title
 
-Student Record Management and Search System using Python
+Student Record Management and Search System
 
 ## B. Objective
 
@@ -473,7 +473,4 @@ The main difficulty I faced was managing the same student data in three differen
 
 Overall, this assignment helped me understand Python OOP, file handling, basic searching and modular programming in a practical way.
 
-```
 
-This version is deliberately **not overly polished**—it reads more like a B.Tech student documenting his own lab project while still covering the teacher's required A–K points.
-```
