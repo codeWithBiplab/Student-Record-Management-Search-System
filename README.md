@@ -4,7 +4,7 @@
 
 ## A. Title
 
-Student Record Management and Search System using
+Student Record Management and Search System
 
 ## B. Objective
 
